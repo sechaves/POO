@@ -4,6 +4,6 @@
 numero = 0
 for cuadrado in range (1, 101):
     numero = numero + cuadrado ** 2
-    print(numero)
+print(numero)
     
     
